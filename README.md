@@ -3,7 +3,7 @@
 https://developers.google.com/maps/documentation/ios-sdk/start
 
 1) install sdk
-2_ get key
+2) get key
 3) add in appdelegate
 4)general->linked framework and libraries (add frameworks)
 Open the Build Phases tab, and within Link Binary with Libraries, add the frameworks:
